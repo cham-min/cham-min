@@ -10,6 +10,7 @@ Hello! I'm Hyunmin Choi from South Korea 🇰🇷. I hope to Frontend-Engineer
 
 ### 🌱 Experience
 - **wecode** - bootcamp *(Apr 2022 - Jul 2022)*
+- **groo** - internship *(Jun 2022 - Jul 2022)*
 
 <br/>
 
