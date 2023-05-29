@@ -1,3 +1,4 @@
+<div align='center'>
 
 <a href = "https://hymndev.tistory.com/"> <img src ="https://img.shields.io/badge/Tech blog-000000?&logo=Tistory&style=flat-square" alt="Tistory"/></a>
 <a href = "mailto:hymn9613@gmail.com"> <img src ="https://img.shields.io/badge/Gmail-EA4335?&logo=Gmail&logoColor=white&style=flat-square&link=mailto:hymn9613@gmail.com" alt="Tistory"/></a>
@@ -5,13 +6,7 @@
 #
 
 ### 🙋‍♂️ About me
-- 무언갈 빠르게 좋아하여 변화가 빠른 FE 개발을 좋아합니다.
-
-<br/>
-
-### 🌱 Experience
-- **wecode** - bootcamp *(Apr 2022 - Jul 2022)*
-- **groo** - internship *(Jun 2022 - Jul 2022)*
+안녕하세요! 프론트엔드 개발자 최현민입니다.
 
 <br/>
 
@@ -23,7 +18,6 @@
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/ReactJS-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/></a>
-<!-- <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/></a> -->
 
 <br/>
 
@@ -64,3 +58,5 @@ link & email code
 <a href="https://www.facebook.com/jiyeon.rian.lee" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 -->
+
+</div>
