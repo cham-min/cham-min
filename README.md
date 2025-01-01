@@ -1,10 +1,5 @@
 <div align='center'>
 
-<a href = "https://hymndev.tistory.com/"> <img src ="https://img.shields.io/badge/Tech blog-000000?&logo=Tistory&style=flat-square" alt="Tistory"/></a>
-<a href = "mailto:hymn9613@gmail.com"> <img src ="https://img.shields.io/badge/Gmail-EA4335?&logo=Gmail&logoColor=white&style=flat-square&link=mailto:hymn9613@gmail.com" alt="Tistory"/></a>
-
-#
-
 ### 🙋‍♂️ About me
 안녕하세요! 프론트엔드 개발자 최현민입니다.
 
